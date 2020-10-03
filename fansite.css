@@ -1,3 +1,13 @@
+body {
+  background-image: url(https://media.fromthegrapevine.com/assets/images/2015/6/Colorful%20coral%20reef.jpg.824x0_q71_crop-scale.jpg);
+  background-size: cover;
+}
+
+h1{
+font-size: 90px;
+text-align: center;
+}
+
 #welcome{
   font-size: 48px;
   color: rgb(88, 196, 234);
