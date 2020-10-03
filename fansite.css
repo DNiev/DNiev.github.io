@@ -1,23 +1,28 @@
 body{
   background-image: url(https://media.fromthegrapevine.com/assets/images/2015/6/Colorful%20coral%20reef.jpg.824x0_q71_crop-scale.jpg);
   background-size: cover;
+  font-family: 'Shadows Into Light', cursive;
 }
 
 h1{
-font-size: 90px;
+font-size: 150px;
 text-align: center;
 }
 
-div{
-  width: 300px;
-  height: 300px;
-  background-color: white;
+#intro{
+  text-align: center;
+  font-size: 48px;
+  background-color: ;
+  margin: auto;
+  display: inline-block;
 }
 
-#intro{
-  font-size: 48px;
-  color: rgb(88, 196, 234);
+div{
   background-color: white;
+  text-align: center;
+}
 
+#bouncemush{
+  size: 50%;
 }
 
